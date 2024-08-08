@@ -1,1 +1,10 @@
-<root><YourSubscription><Subscription Name="Visual Studio Professional" Type="E7"><SubscriptionGuid>00-00</SubscriptionGuid></Subscription></YourSubscription></root>
+<root>
+  <YourSubscription>
+    <Subscription Name="Visual Studio Professional" Type="E7">
+      <SubscriptionGuid>00-00</SubscriptionGuid>
+    </Subscription>
+  </YourSubscription>
+  <MySection>
+    <Comments>My third checkin</Comments>
+  </MySection>
+</root>
